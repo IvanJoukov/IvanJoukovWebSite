@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvanJoukovWebSite", "IvanJoukovWebSite\IvanJoukovWebSite.csproj", "{D99A2A2D-772C-4681-A087-91EEE06C71B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvanJoukovWebSite.Tests", "IvanJoukovWebSite.Tests\IvanJoukovWebSite.Tests.csproj", "{4B78C15A-A68F-4BC5-9306-FA65A43D8EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99A2A2D-772C-4681-A087-91EEE06C71B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99A2A2D-772C-4681-A087-91EEE06C71B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99A2A2D-772C-4681-A087-91EEE06C71B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99A2A2D-772C-4681-A087-91EEE06C71B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B78C15A-A68F-4BC5-9306-FA65A43D8EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B78C15A-A68F-4BC5-9306-FA65A43D8EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B78C15A-A68F-4BC5-9306-FA65A43D8EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B78C15A-A68F-4BC5-9306-FA65A43D8EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
